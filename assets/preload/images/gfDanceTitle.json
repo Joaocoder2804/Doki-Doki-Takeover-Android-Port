@@ -1,10 +1,10 @@
 {	
-	"titlex":-150,
-	"titley":-100,
+	"titlex":-50,
+	"titley":-90,
 	"startx":100,
-	"starty":576,
-	"gfx":512,
+	"starty":580,
+	"gfx":520,
 	"gfy":40,
-	"backgroundSprite":"",
+	"backgroundSprite":"StartMenuBG",
 	"bpm":102
 }
