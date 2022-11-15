@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Senpai Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SENPAI UP NOTE"
+		},
+		{
+			"offsets": [
+				6,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SENPAI RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SENPAI LEFT NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SENPAI DOWN NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				6
+			],
+			"anim": "singDOWN-miss",
+			"fps": 24,
+			"name": "miss Senpai DOWN NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				6
+			],
+			"anim": "singLEFT-miss",
+			"fps": 24,
+			"name": "miss Senpai LEFT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "singRIGHT-miss",
+			"fps": 24,
+			"name": "miss Senpai RIGHT NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				36
+			],
+			"anim": "singUP-miss",
+			"fps": 24,
+			"name": "miss Senpai UP NOTE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-150
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Dies pixel",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "senpai retry"
+		},
+		{
+			"offsets": [
+				12,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "RETRY CONFIRM"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/playablesenpai",
+	"position": [
+		170,
+		270
+	],
+	"healthicon": "senpai-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		131
+	],
+	"camera_position": [
+		240,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

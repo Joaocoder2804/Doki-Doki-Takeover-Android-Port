@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monika Returns Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monika Returns Left"
+		},
+		{
+			"offsets": [
+				-27,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monika Returns Down"
+		},
+		{
+			"offsets": [
+				-110,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Monika Returns Up"
+		},
+		{
+			"offsets": [
+				-32,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monika Returns Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki_MonikaNonPixel_Assets",
+	"position": [
+		-100,
+		-40
+	],
+	"healthicon": "monika-real",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		212,
+		101
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

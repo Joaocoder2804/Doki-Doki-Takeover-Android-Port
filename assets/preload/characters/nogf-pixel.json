@@ -65,7 +65,7 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/gfPixel",
+	"image": "characters/nogfPixel",
 	"position": [
 		0,
 		0

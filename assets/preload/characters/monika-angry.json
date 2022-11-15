@@ -1,26 +1,15 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				7,
+				-1,
 				0
 			],
-			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF IDLE",
+			"name": "MONIKA IDLE",
 			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF LEFT MISS"
 		},
 		{
 			"offsets": [
@@ -31,51 +20,7 @@
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF LEFT NOTE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF UP MISS"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF UP NOTE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF RIGHT NOTE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF RIGHT MISS"
+			"name": "MONIKA LEFT NOTE"
 		},
 		{
 			"offsets": [
@@ -86,7 +31,7 @@
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF DOWN NOTE"
+			"name": "MONIKA DOWN NOTE"
 		},
 		{
 			"offsets": [
@@ -95,39 +40,83 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singUP",
 			"indices": [],
-			"name": "BF DOWN MISS"
+			"name": "MONIKA UP NOTE"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				7,
-				-24
+				0,
+				0
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "BF PEACE",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MONIKA RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "MONIKA LEFT GLITCH"
+		},
+		{
+			"offsets": [
+				60,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "MONIKA DOWN GLITCH0"
+		},
+		{
+			"offsets": [
+				60,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "MONIKA UP GLITCH0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "MONIKA RIGHT GLITCH"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/Monika_Finale",
 	"position": [
-		200,
-		510
+		210,
+		300
 	],
-	"healthicon": "bf-pixel",
-	"flip_x": true,
+	"healthicon": "monika-angry",
+	"flip_x": false,
 	"healthbar_colors": [
-		123,
-		214,
-		246
+		201,
+		206,
+		255
 	],
 	"camera_position": [
-		190,
-		-110
+		-600,
+		-300
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 7.2
 }
