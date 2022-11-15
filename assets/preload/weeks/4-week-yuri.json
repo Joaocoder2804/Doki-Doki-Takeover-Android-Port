@@ -1,0 +1,41 @@
+{
+	"storyName": "DDTO Yuri Week",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"yuri_story",
+		""
+	],
+	"songs": [
+		[
+			"Deep-Breaths",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Obsession",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sayori-week",
+	"hiddenUntilUnlocked": false
+}

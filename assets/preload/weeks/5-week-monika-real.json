@@ -1,0 +1,32 @@
+{
+	"storyName": "DDTO Monika Week 2",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Reconciliation",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"moni_real_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

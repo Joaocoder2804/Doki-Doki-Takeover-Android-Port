@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"big_monika_story",
+		""
+	],
+	"songs": [
+		[
+			"epiphany",
+			"bigmonika",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

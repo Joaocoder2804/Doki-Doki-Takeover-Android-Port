@@ -1,0 +1,41 @@
+{
+	"storyName": "DDTO Sayori Week",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"sayo_story",
+		""
+	],
+	"songs": [
+		[
+			"rain-clouds",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"my-confession",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sayori-week",
+	"hiddenUntilUnlocked": false
+}

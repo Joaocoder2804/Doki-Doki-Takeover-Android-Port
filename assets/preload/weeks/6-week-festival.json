@@ -1,0 +1,59 @@
+{
+	"storyName": "DDTO Festival Week",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"crucify(YuRi)",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"beathoven(natsu)",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"its-complicated(sayo)",
+			"sayori",
+			[
+				149,
+				224,
+				250
+			]
+		],
+		[
+			"glitcher(monika)",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"secret2_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

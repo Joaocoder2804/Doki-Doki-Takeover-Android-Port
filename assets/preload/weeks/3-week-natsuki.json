@@ -1,0 +1,41 @@
+{
+	"storyName": "DDTO Natsuki Week",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"My-Sweets",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		],
+		[
+			"Baka",
+			"natsuki",
+			[
+				252,
+				149,
+				211
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"nat_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

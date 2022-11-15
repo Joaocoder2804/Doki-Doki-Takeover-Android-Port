@@ -1,0 +1,50 @@
+{
+	"storyName": "DDTO Monika Week",
+	"difficulties": "hard,official",
+	"hideFreeplay": false,
+	"weekBackground": "doki",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"high-school-conflict",
+			"monika",
+			[
+				255,
+				184,
+				227
+			]
+		],
+		[
+			"bara-no-yume",
+			"duet",
+			[
+				255,
+				184,
+				227
+			]
+		],
+		[
+			"your-demise",
+			"monika-angry",
+			[
+				201,
+				206,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"moni_story",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
