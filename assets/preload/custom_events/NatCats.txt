@@ -1,0 +1,7 @@
+Value 1 = appear,time
+true,1
+if true, the cats will appear in the screen
+if false, the cats will desappear.
+Value 2 = number
+if 0 ,the animation will be white.
+if 1 ,the animation will be red.

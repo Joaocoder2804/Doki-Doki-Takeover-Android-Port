@@ -1,0 +1,8 @@
+Value 1 = boolean,ahead,layer.
+if true, the static will appear
+if false, the static will desappear
+write like that:
+true,true,hud
+Value 2 = alpha,duration,easing
+write like that:
+1,quartOut
