@@ -1,0 +1,11 @@
+{
+	
+	"image": "nat_story",
+	"position": [
+		-15,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "natsuki_idle",
+	"confirm_anim": "natsuki_selected"
+}

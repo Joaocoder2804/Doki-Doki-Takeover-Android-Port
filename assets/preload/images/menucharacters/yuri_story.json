@@ -1,0 +1,11 @@
+{
+	
+	"image": "yuri_story",
+	"position": [
+		-15,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "yuri_selected",
+	"confirm_anim": "yuri_idle"
+}

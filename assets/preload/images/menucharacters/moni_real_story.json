@@ -1,0 +1,11 @@
+{
+	
+	"image": "moni_real_story",
+	"position": [
+		-15,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "duster_idle",
+	"confirm_anim": "duster_selected"
+}

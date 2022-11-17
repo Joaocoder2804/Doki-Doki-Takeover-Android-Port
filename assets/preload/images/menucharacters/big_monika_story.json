@@ -1,0 +1,11 @@
+{
+	
+	"image": "big_monika_story",
+	"position": [
+		-15,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "big_monika_idle",
+	"confirm_anim": "big_monika_selected"
+}

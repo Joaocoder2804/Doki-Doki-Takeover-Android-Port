@@ -1,0 +1,11 @@
+{
+	
+	"image": "sayo_story",
+	"position": [
+		-15,
+		-100
+	],
+	"scale": 1,
+	"idle_anim": "sayo_idle",
+	"confirm_anim": "sayo_selected"
+}
