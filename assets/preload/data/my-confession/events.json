@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				42397.0588235294,
+				[
+					[
+						"Play Animation",
+						"three",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				42750,
+				[
+					[
+						"Play Animation",
+						"two",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.1"
+					]
+				]
+			],
+			[
+				43102.9411764706,
+				[
+					[
+						"Play Animation",
+						"one",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				43455.8823529412,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.1"
+					]
+				]
+			],
+			[
+				66352.9411764705,
+				[
+					[
+						"Play Animation",
+						"Nara",
+						"dad"
+					],
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"0.1"
+					],
+					[
+						"dokiStatic",
+						"true,true",
+						"1"
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.1"
+					],
+					[
+						"dokiStatic",
+						"false",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}
